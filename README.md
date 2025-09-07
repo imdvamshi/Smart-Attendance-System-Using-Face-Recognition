@@ -39,40 +39,6 @@ Face Matching: Match live faces with stored encodings.
 Attendance Logging: Mark and store attendance automatically with timestamps.
 Reporting: Export attendance records (CSV).
 
-📂Project Structure:
-📂 FACE_RECOGNITION_FLASK
-│
-├── 📂 Attendance
-│   ├── 📄 Attendance-05_06_2025.csv
-│   ├── 📄 Attendance-06_20_2025.csv
-│   └── 📄 Attendance-09_07_2025.csv
-│
-├── 📂 static
-│   ├── 📂 faces
-│   │   └── 📂 VamshiDunna
-│   │       ├── 🖼️ VamshiDunna_0.jpg
-│   │       ├── 🖼️ VamshiDunna_1.jpg
-│   │       ├── 🖼️ VamshiDunna_2.jpg
-│   │       ├── 🖼️ VamshiDunna_3.jpg
-│   │       ├── 🖼️ VamshiDunna_4.jpg
-│   │       ├── 🖼️ VamshiDunna_5.jpg
-│   │       ├── 🖼️ VamshiDunna_6.jpg
-│   │       ├── 🖼️ VamshiDunna_7.jpg
-│   │       ├── 🖼️ VamshiDunna_8.jpg
-│   │       └── 🖼️ VamshiDunna_9.jpg
-│   │
-│   ├── 📂 face_recognition_model
-│   └── 🖼️ topmain.jpg
-│
-├── 📂 templates
-│   └── 📄 home.html
-│
-├── 🧑‍💻 app.py
-├── 🖼️ background.PNG
-├── 🖼️ Capture.PNG
-├── 📄 haarcascade_frontalface_default.xml
-├── 📘 README.md
-
 🚀 Future Enhancements
 1. Database Integration
 Replace CSV with MySQL / PostgreSQL / MongoDB to securely store attendance records.
