@@ -1,7 +1,7 @@
 📸 Smart Attendance System Using Face Recognition
 The Smart Attendance System is a facial recognition-based application designed to automate and simplify the attendance process. Leveraging computer vision and machine learning, this system detects and recognizes faces in real-time, marking attendance without manual input.
 
-[Demo](https://drive.google.com/file/d/1JeIXWOZGchzJi4c2jYNd4d6NKU-PIGcB/view?usp=sharing)
+[Demo](https://youtu.be/dHGUOkI9bNY))
 
 🔍 Features:
 🎯 Real-time face detection and recognition
